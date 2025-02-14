@@ -1,0 +1,2 @@
+requests
+wemake-python-styleguide
