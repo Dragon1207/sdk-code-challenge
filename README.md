@@ -1,4 +1,4 @@
-# JSONPlaceholder SDK Challenge
+# Code Challenge - SDK
 
 This project is a simple Python application that uses the JSONPlaceholder API to fetch, create, update, and delete posts. It demonstrates a layered architecture with a service layer, an SDK client layer, and an in-memory storage implementation.
 
